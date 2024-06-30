@@ -1,1 +1,12 @@
-Hello World!
+/* ----------
+Resource URL:  https://learning.oreilly.com/interactive-lab/sql-simplified-basic/9780137864744X018/
+Created by:    Danny Ma
+
+In this segment, we are given the chance to:
+  -Interact with PostgreSQL database tables using the SQLPad interface
+  -Sort the outputs from a SQL query according to column values
+  -Include or exclude table records according to specified conditions
+  -Count the number of records in a database table
+  -Remove duplicate table records and return only unique values
+Which helps us to be familiarized with the most useful SQL techniques for data analysis
+*/ ----------
